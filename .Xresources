@@ -61,8 +61,9 @@ XTerm*reverseVideo:               on
 XTerm*faceName:                   Terminus:size=7:antialias=true
 XTerm*selectToClipboard:          true
 
-URxvt.font:                       9x15
-URxvt.font: xft:terminus:pixelsize=8
+URxvt.font: xft:Hack:Bold:pixelsize=10:antialiases=true:hinting=true
+URxvt.letterSpace: -1
+URxvt.internalBorder: 15
 ! alternative font settings with 'terminus':
 !URxvt.font:      -xos4-terminus-medium-r-normal--16-160-72-72-c-80-iso10646-1
 !URxvt.bold.font: -xos4-terminus-bold-r-normal--16-160-72-72-c-80-iso10646-1
