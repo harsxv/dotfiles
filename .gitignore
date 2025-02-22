@@ -1,0 +1,5 @@
+# Fish local config
+test
+.config/fish/fish_variables
+.config/fish/config-local.fish
+

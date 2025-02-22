@@ -1,0 +1,14 @@
+# Command-line tools
+fish
+git
+wget
+htop
+glow
+wireguard-tools
+fnm
+
+# GUI Apps (Casks)
+maccy
+termius
+bitwarden
+arc
