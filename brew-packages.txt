@@ -3,9 +3,12 @@ fish
 git
 wget
 htop
+assh
 glow
 wireguard-tools
 fnm
+rbenv
+doctl
 
 # GUI Apps (Casks)
 maccy
